@@ -1,6 +1,6 @@
 version = 1
-SPDX-PackageName = "OCI Image: Fedora 41, Integration Test Target (ITT) with systemd"
-SPDX-PackageDownloadLocation = "https://github.com/foundata/oci-fedora41-itt"
+SPDX-PackageName = "OCI Image: Fedora 40, Integration Test Target (ITT) with systemd"
+SPDX-PackageDownloadLocation = "https://github.com/foundata/oci-fedora40-itt"
 SPDX-PackageSupplier = "foundata GmbH (https://foundata.com)"
 SPDX-PackageComment = """
 This project may include calls to Application Programming Interfaces
